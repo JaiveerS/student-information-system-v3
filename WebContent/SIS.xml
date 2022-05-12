@@ -1,0 +1,15 @@
+
+<sisReport namePrefix="Rodriguez" creditTaken="20">
+    <studentList>
+        <sid>cse67895</sid>
+        <name>Philip, Rodriguez</name>
+        <credit_taken>81</credit_taken>
+        <credit_graduate>90</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse29889</sid>
+        <name>Irene, Rodriguez</name>
+        <credit_taken>84</credit_taken>
+        <credit_graduate>90</credit_graduate>
+    </studentList>
+</sisReport>
